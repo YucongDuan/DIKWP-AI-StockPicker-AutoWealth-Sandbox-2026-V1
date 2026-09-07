@@ -1,0 +1,6 @@
+{
+  "package": "DIKWP AI StockPicker AutoWealth Sandbox 2026 V1",
+  "live_trading_capability_detected": false,
+  "findings_requiring_human_review": [],
+  "note": "No broker adapters, credentials storage, or order execution modules are included."
+}

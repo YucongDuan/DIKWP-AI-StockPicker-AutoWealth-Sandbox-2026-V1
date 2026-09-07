@@ -25,23 +25,3 @@ python tools/run_stock_sandbox.py examples/sample_investor_profile.json --univer
 ## Design lineage
 
 The package extends the DIKWP Evidence Ledger / Action Ticket / Human Review pattern into financial research and suitability preparation.
-
-
-<!-- DIKWP-SOURCE-VISIBILITY-START -->
-## Browse source / 浏览源码
-
-[Source index / 源码入口](SOURCE_INDEX.md) expands the retained archive distribution into browsable files, with archive hashes and per-project provenance. Runtime tests: **NOT_RUN**.
-
-原始压缩包 保留；新增可浏览源码、哈希与来源记录。运行与测试尚未执行，详情见源码入口。
-<!-- DIKWP-SOURCE-VISIBILITY-END -->
-
-
-## Related research navigation / 相关研究导航
-
-Research navigation, not verified software dependencies. / 研究导航，不代表已验证的软件依赖关系。
-
-- [DIKWP-IntentEconomy-TransitionOS-2026-V1](https://github.com/YucongDuan/DIKWP-IntentEconomy-TransitionOS-2026-V1)
-- [DIKWP-Intention-Economy-BridgeOS-2026-V1](https://github.com/YucongDuan/DIKWP-Intention-Economy-BridgeOS-2026-V1)
-- [DIKWP-DesireBalance-OS](https://github.com/YucongDuan/DIKWP-DesireBalance-OS)
-- [DIKWP-NietzscheLab-OS](https://github.com/YucongDuan/DIKWP-NietzscheLab-OS)
-- [DIKWP-OmegaIntent-Cosmogenesis-OS](https://github.com/YucongDuan/DIKWP-OmegaIntent-Cosmogenesis-OS)

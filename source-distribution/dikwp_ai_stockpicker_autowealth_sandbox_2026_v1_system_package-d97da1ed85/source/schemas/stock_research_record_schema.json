@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Stock Research Record",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "sector",
+    "data_source",
+    "factors",
+    "decision_boundary"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "sector": {
+      "type": "string"
+    },
+    "data_source": {
+      "type": "string"
+    },
+    "factors": {
+      "type": "object"
+    },
+    "rebuttal": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "decision_boundary": {
+      "const": "research priority, not buy/sell recommendation"
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "schema": "safe-source-preparation/v1",
+  "status": "STRUCTURALLY_PREPARED_UNTESTED",
+  "prepared_at_utc": "2026-09-07T05:13:21.007646+00:00",
+  "source": {
+    "archive_path": "dikwp_ai_stockpicker_autowealth_sandbox_2026_v1_system_package.zip",
+    "archive_bytes": 118780,
+    "sha256": "3ae5a43e3201a341624c6f541f811ed9b72791b29624f59be3cad4186eff8f01",
+    "source_url": "https://raw.githubusercontent.com/YucongDuan/DIKWP-AI-StockPicker-AutoWealth-Sandbox-2026-V1/cf3f6931d168f4e6447b528e7c5d13b5e16d3a7b/dikwp_ai_stockpicker_autowealth_sandbox_2026_v1_system_package.zip",
+    "original_unchanged": true
+  },
+  "destination": "source-distribution/dikwp_ai_stockpicker_autowealth_sandbox_2026_v1_system_package-d97da1ed85",
+  "unwrapped_directory": null,
+  "project_marker_directories": [
+    "."
+  ],
+  "limits": {
+    "max_entries": 20000,
+    "max_file_bytes": 103809024,
+    "max_total_bytes": 536870912,
+    "max_archive_bytes": 104857600,
+    "max_ratio": 200.0,
+    "max_path_depth": 64,
+    "max_path_bytes": 1024
+  },
+  "workflows": {
+    "included_in_source": false,
+    "authority": "",
+    "executed": false,
+    "default": "quarantine"
+  },
+  "warnings": [],
+  "files": [
+    {
+      "archive_path": "30_DAY_PILOT_PLAN.md",
+      "output_path": "source/30_DAY_PILOT_PLAN.md",
+      "kind": "file",
+      "bytes": 713,
+      "sha256": "7da281dacfea51602c7f13224bf175f06df967b39e2a3de10ce624cc9dcd32d1",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "CITATION.cff",
+      "output_path": "source/CITATION.cff",
+      "kind": "file",
+      "bytes": 268,
+      "sha256": "366d56430976c9b5883166870be12d60dda9434156112e15c5bffc0b24d2568d",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "GOVERNANCE.md",
+      "output_path": "source/GOVERNANCE.md",
+      "kind": "file",
+      "bytes": 1145,
+      "sha256": "0a9c99582cc42e2b6da0d8bf489437426e134b0192a707abdc9e0ed356695e53",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "LICENSE",
+      "output_path": "source/LICENSE",
+      "kind": "file",
+      "bytes": 193,
+      "sha256": "9ddc6e6ac96da67bc838c8f9f9f9dfcfb0ece1e71d2ab6ff18f3fff706d8b667",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "NOTICE.md",
+      "output_path": "source/NOTICE.md",
+      "kind": "file",
+      "bytes": 428,
+      "sha256": "37f572ff84cdcbcbbf355053c12f927accbcd42c4ab8fc45d975a6fc1877ef12",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "README.md",
+      "output_path": "source/README.md",
+      "kind": "file",
+      "bytes": 1425,
+      "sha256": "e46f53627836e54f6796458da32f070ba664404adc8e99b220cb1ddc8b8d45d6",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "SOURCES.md",
+      "output_path": "source/SOURCES.md",
+      "kind": "file",
+      "bytes": 796,
+      "sha256": "3152ed05a8bb73039407d5da136ba9d7d4e027f509890a6daaa386d8a8571b94",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "data/advisor_review_checklist.csv",
+      "output_path": "source/data/advisor_review_checklist.csv",
+      "kind": "file",
+      "bytes": 539,
+      "sha256": "6929f041746c8b860139c276d1012ce9ab99e30098c0811090aa9500547acc61",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "data/ai_use_log_template.csv",
+      "output_path": "source/data/ai_use_log_template.csv",
+      "kind": "file",
+      "bytes": 296,
+      "sha256": "5844187603d715fbce551be75dfe247a58b68e9e3f47383e7197d948a2680d5e",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "data/investor_profile_template.json",
+      "output_path": "source/data/investor_profile_template.json",
+      "kind": "file",
+      "bytes": 289,
+      "sha256": "946df4f1a7fc67f6057d1550147c89bc9e447fd2ce34c87fd2aeb268ae35a66f",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "data/paper_portfolio_template.csv",
+      "output_path": "source/data/paper_portfolio_template.csv",
+      "kind": "file",
+      "bytes": 290,
+      "sha256": "6f09f435bc4d301182efb3c2988754dfbca588108da5d174fc3a12ed4229b913",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "data/stock_universe_template.csv",
+      "output_path": "source/data/stock_universe_template.csv",
+      "kind": "file",
+      "bytes": 1998,
+      "sha256": "7032e3886f5d41a09f27f0eac473f632d2a82539d56f253cbc4cc10fcf756ade",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "dikwp_ai_stockpicker_autowealth_sandbox_2026_v1_demo.html",
+      "output_path": "source/dikwp_ai_stockpicker_autowealth_sandbox_2026_v1_demo.html",
+      "kind": "file",
+      "bytes": 43636,
+      "sha256": "01f4648ab9903f02ab33ce875a0a9c2933935fd5041c474aa1e0ba13ce7f1316",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "dikwp_ai_stockpicker_autowealth_sandbox_2026_v1_runbook.docx",
+      "output_path": "source/dikwp_ai_stockpicker_autowealth_sandbox_2026_v1_runbook.docx",
+      "kind": "file",
+      "bytes": 51316,
+      "sha256": "98251b3de326131dac797e36acb290987ed6b02c0377b8991fd7db72eb7ff3ce",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "dikwp_ai_stockpicker_autowealth_sandbox_2026_v1_showcase.pptx",
+      "output_path": "source/dikwp_ai_stockpicker_autowealth_sandbox_2026_v1_showcase.pptx",
+      "kind": "file",
+      "bytes": 418435,
+      "sha256": "8359860fffa62eed4f6603ae320c46a6616a9f0218ea03309cbc09166811a3ca",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "examples/sample_investor_profile.json",
+      "output_path": "source/examples/sample_investor_profile.json",
+      "kind": "file",
+      "bytes": 289,
+      "sha256": "946df4f1a7fc67f6057d1550147c89bc9e447fd2ce34c87fd2aeb268ae35a66f",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "examples/sample_stock_universe.csv",
+      "output_path": "source/examples/sample_stock_universe.csv",
+      "kind": "file",
+      "bytes": 1631,
+      "sha256": "bf2957d30fe69ed01c4d88a23d9223114e10722657bec297a01b94b6af87a93a",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "index.html",
+      "output_path": "source/index.html",
+      "kind": "file",
+      "bytes": 43636,
+      "sha256": "01f4648ab9903f02ab33ce875a0a9c2933935fd5041c474aa1e0ba13ce7f1316",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "schemas/advisor_review_ticket_schema.json",
+      "output_path": "source/schemas/advisor_review_ticket_schema.json",
+      "kind": "file",
+      "bytes": 708,
+      "sha256": "8e792cfd8afefef2b4591f5d3b804f6dd7b5328bdaf4d5d3eb37bcf966b2875d",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "schemas/ai_use_log_schema.json",
+      "output_path": "source/schemas/ai_use_log_schema.json",
+      "kind": "file",
+      "bytes": 677,
+      "sha256": "7adc0153dc0f5eee480733e548cd9cf52dff5675c47cf5bcd670bcbd0f51396e",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "schemas/investment_research_passport_schema.json",
+      "output_path": "source/schemas/investment_research_passport_schema.json",
+      "kind": "file",
+      "bytes": 691,
+      "sha256": "9cbdd4193c01a9d161f53f72f9c0c5823c7aa2549de5f6b78d58aa8fbe32a322",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "schemas/investor_profile_schema.json",
+      "output_path": "source/schemas/investor_profile_schema.json",
+      "kind": "file",
+      "bytes": 523,
+      "sha256": "c837768680f80e254809ec6f761c1a9b106a0b55444dd0b97ce9a972996129ae",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "schemas/paper_portfolio_policy_schema.json",
+      "output_path": "source/schemas/paper_portfolio_policy_schema.json",
+      "kind": "file",
+      "bytes": 571,
+      "sha256": "ddcdc1ab433923497e8c265f047e1e7a5bf99348c27abc4317762bbbefebdc6c",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "schemas/stock_research_record_schema.json",
+      "output_path": "source/schemas/stock_research_record_schema.json",
+      "kind": "file",
+      "bytes": 682,
+      "sha256": "daed8246a9ed6bc8d18314b668a2dd961d4a1e0093d915dfd272b2c4d8631627",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "static_boundary_audit_report.json",
+      "output_path": "source/static_boundary_audit_report.json",
+      "kind": "file",
+      "bytes": 247,
+      "sha256": "0eea781afb0d2085644d488d925c8c81e687afbee8b3ed39a89adc7413d287a8",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "tools/run_stock_sandbox.py",
+      "output_path": "source/tools/run_stock_sandbox.py",
+      "kind": "file",
+      "bytes": 2092,
+      "sha256": "7614d04f0f7f9e400d4de03435a98bed97b19cc0412c737ed63cfdb2b3b1362e",
+      "original_mode": "0o100644",
+      "quarantined": false
+    },
+    {
+      "archive_path": "tools/static_boundary_audit.py",
+      "output_path": "source/tools/static_boundary_audit.py",
+      "kind": "file",
+      "bytes": 1288,
+      "sha256": "9ab149c2a1416470a6afb1c2991dc852030af1dce24097355b3dfd61d978a856",
+      "original_mode": "0o100644",
+      "quarantined": false
+    }
+  ],
+  "evidence_boundary": "Safety of ZIP paths/budgets only. No code, install, build, tests, network, git operation, license reassignment, or certification was performed.",
+  "nested_archive_policy": "Each ZIP recursively inspected to bounded depth; all versions preserved; see root SOURCE_PROVENANCE.json."
+}

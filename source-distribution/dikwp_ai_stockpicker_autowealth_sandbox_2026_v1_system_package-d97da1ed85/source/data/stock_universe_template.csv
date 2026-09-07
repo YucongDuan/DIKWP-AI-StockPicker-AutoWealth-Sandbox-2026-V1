@@ -1,0 +1,11 @@
+﻿ticker_or_internal_id,name,sector,country_market,data_source,price_source,financial_source,last_update,quality,value,growth,momentum,risk,liquidity,ai_exposure,data_quality,notes,is_real_security
+SYN-A100,智造机器人设备（合成）,工业机器人,SYNTHETIC,DEMO,DEMO,DEMO,2026-06-29,74,48,82,63,72,78,86,70,受益自动化，但周期与估值波动较高。,false
+SYN-B200,食品消费稳定（合成）,食品饮料,SYNTHETIC,DEMO,DEMO,DEMO,2026-06-29,80,57,48,42,38,73,37,82,现金流稳定但成长较慢，AI主要影响供应链与营销。,false
+SYN-C300,新能源材料链（合成）,新能源材料,SYNTHETIC,DEMO,DEMO,DEMO,2026-06-29,58,44,76,68,82,81,62,65,景气与价格周期敏感，需严控仓位。,false
+SYN-D400,医疗服务网络（合成）,医疗服务,SYNTHETIC,DEMO,DEMO,DEMO,2026-06-29,77,52,59,50,55,66,45,74,需求韧性较强，但监管与成本影响明显。,false
+SYN-E500,企业软件云平台（合成）,软件/云服务,SYNTHETIC,DEMO,DEMO,DEMO,2026-06-29,70,39,88,74,78,85,91,72,AI互补潜力高，但估值与竞争格局敏感。,false
+SYN-F600,稳健金融服务（合成）,银行/金融,SYNTHETIC,DEMO,DEMO,DEMO,2026-06-29,67,78,32,39,46,90,52,83,估值低、分红假设强，但资产质量和宏观周期敏感。,false
+SYN-G700,高波动AI主题（合成）,AI主题硬件,SYNTHETIC,DEMO,DEMO,DEMO,2026-06-29,42,28,93,87,95,80,98,52,主题弹性大，证据弱且回撤风险极高。,false
+SYN-H800,公用事业防御（合成）,公用事业,SYNTHETIC,DEMO,DEMO,DEMO,2026-06-29,73,65,30,46,34,76,29,80,波动低但弹性有限，适合稳定现金流讨论。,false
+SYN-I900,网络安全服务（合成）,网络安全,SYNTHETIC,DEMO,DEMO,DEMO,2026-06-29,66,45,79,70,76,68,88,69,AI安全需求上升，但客户预算与竞争强度不确定。,false
+SYN-J1000,半导体设备（合成）,半导体,SYNTHETIC,DEMO,DEMO,DEMO,2026-06-29,61,36,84,75,86,87,94,67,AI算力链高相关，国产替代与周期波动并存。,false

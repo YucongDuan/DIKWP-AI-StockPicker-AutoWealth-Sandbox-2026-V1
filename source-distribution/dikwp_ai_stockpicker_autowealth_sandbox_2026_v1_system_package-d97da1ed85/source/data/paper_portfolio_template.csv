@@ -1,0 +1,6 @@
+﻿bucket,target_weight,min_weight,max_weight,notes
+cash,15,5,40,现金/货币，流动性缓冲
+bonds,35,10,70,债券/固收，非无风险
+broad_index,30,0,60,宽基权益，非荐股
+stock_research_pool,15,0,30,仅纸面研究池
+alternatives,5,0,10,黄金/REITs等教育性讨论

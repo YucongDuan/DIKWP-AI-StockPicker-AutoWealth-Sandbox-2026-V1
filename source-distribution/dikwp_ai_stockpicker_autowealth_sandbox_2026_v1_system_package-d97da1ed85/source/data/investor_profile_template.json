@@ -1,0 +1,11 @@
+{
+  "id": "P1",
+  "name": "稳健型长期投资者（合成）",
+  "age": 35,
+  "assets": 600000,
+  "horizon": 5,
+  "max_drawdown": 15,
+  "goal_return": 6,
+  "risk_level": "R3",
+  "purpose": "五年以上家庭长期增值，同时保留应急金和避免高波动主题过度集中。"
+}

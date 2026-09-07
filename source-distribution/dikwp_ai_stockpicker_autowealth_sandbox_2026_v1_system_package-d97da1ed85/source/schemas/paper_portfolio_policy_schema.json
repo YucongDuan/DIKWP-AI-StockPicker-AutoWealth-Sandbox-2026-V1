@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Paper Portfolio Policy",
+  "type": "object",
+  "required": [
+    "purpose",
+    "target_allocation",
+    "rebalance_rules",
+    "human_review_required"
+  ],
+  "properties": {
+    "purpose": {
+      "type": "string"
+    },
+    "target_allocation": {
+      "type": "object"
+    },
+    "rebalance_rules": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "human_review_required": {
+      "const": true
+    },
+    "live_trading": {
+      "const": false
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Advisor Review Ticket",
+  "type": "object",
+  "required": [
+    "ticket_id",
+    "state",
+    "human_owner",
+    "evidence_refs",
+    "reason",
+    "automated_decision"
+  ],
+  "properties": {
+    "ticket_id": {
+      "type": "string"
+    },
+    "state": {
+      "enum": [
+        "discuss",
+        "request_evidence",
+        "reduce_risk",
+        "block"
+      ]
+    },
+    "human_owner": {
+      "type": "string"
+    },
+    "evidence_refs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "reason": {
+      "type": "string"
+    },
+    "automated_decision": {
+      "const": false
+    }
+  }
+}

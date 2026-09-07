@@ -1,0 +1,8 @@
+﻿check_item,question,block_condition
+qualification,是否由有资格机构/人员提供正式建议？,无资格主体
+suitability,客户风险等级与产品风险是否匹配？,风险不匹配
+purpose,目的、期限和流动性是否明确？,目的不清
+evidence,产品文件和数据来源是否可靠？,无正式文件
+conflict,利益冲突是否披露？,冲突未披露
+ai_log,AI输出是否有来源和人工核验？,无来源收益判断
+execution,是否有客户确认和交易授权？,自动执行/绕过确认

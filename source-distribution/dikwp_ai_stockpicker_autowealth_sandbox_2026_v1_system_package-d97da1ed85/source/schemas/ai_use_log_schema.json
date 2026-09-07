@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "AI Use Log",
+  "type": "object",
+  "required": [
+    "tool",
+    "purpose",
+    "input_summary",
+    "output_used",
+    "human_verification",
+    "data_boundary"
+  ],
+  "properties": {
+    "tool": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "purpose": {
+      "type": "string"
+    },
+    "input_summary": {
+      "type": "string"
+    },
+    "output_used": {
+      "type": "string"
+    },
+    "human_verification": {
+      "type": "string"
+    },
+    "errors_or_rejections": {
+      "type": "string"
+    },
+    "data_boundary": {
+      "type": "string"
+    }
+  }
+}

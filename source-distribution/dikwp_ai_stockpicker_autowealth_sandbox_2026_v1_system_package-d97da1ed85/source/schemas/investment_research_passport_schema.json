@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Investment Research Passport",
+  "type": "object",
+  "required": [
+    "version",
+    "investor",
+    "purpose",
+    "research_list",
+    "paper_portfolio",
+    "residuals",
+    "boundaries"
+  ],
+  "properties": {
+    "version": {
+      "type": "string"
+    },
+    "investor": {
+      "type": "object"
+    },
+    "purpose": {
+      "type": "string"
+    },
+    "research_list": {
+      "type": "array"
+    },
+    "paper_portfolio": {
+      "type": "object"
+    },
+    "residuals": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "boundaries": {
+      "type": "object"
+    }
+  }
+}

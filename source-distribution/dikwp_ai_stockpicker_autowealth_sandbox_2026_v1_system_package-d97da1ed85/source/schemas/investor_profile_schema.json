@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Investor Profile",
+  "type": "object",
+  "required": [
+    "id",
+    "risk_level",
+    "horizon",
+    "max_drawdown",
+    "purpose"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "risk_level": {
+      "type": "string"
+    },
+    "horizon": {
+      "type": "number"
+    },
+    "max_drawdown": {
+      "type": "number"
+    },
+    "goal_return": {
+      "type": "number"
+    },
+    "purpose": {
+      "type": "string"
+    }
+  }
+}

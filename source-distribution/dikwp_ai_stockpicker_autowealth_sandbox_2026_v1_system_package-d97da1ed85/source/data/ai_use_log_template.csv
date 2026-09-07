@@ -1,0 +1,2 @@
+﻿date,tool,version,purpose,input_summary,output_used,human_verification,errors_or_rejections,data_boundary
+2026-06-29,offline_demo,v1,股票研究Dossier草稿,合成因子，无真实客户隐私,保留风险问题,合规/投研人工复核,删除买入措辞,不上传个人与账户数据

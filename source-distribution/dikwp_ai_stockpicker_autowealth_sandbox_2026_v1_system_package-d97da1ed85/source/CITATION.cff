@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please preserve DIKWP / Yucong Duan attribution."
+title: "DIKWP AI StockPicker AutoWealth Sandbox 2026 V1"
+type: software
+authors:
+  - family-names: Duan
+    given-names: Yucong
+version: 1.0.0
+date-released: 2026-06-29
+license: Apache-2.0

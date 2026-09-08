@@ -1,5 +1,7 @@
 # DIKWP AI StockPicker AutoWealth Sandbox 2026 V1
 
+Created by Yucong Duan (段玉聪).
+
 A standalone, offline-first, compliance-oriented prototype for stock research prioritization and paper portfolio automation.
 
 ## What it is
@@ -30,7 +32,7 @@ The package extends the DIKWP Evidence Ledger / Action Ticket / Human Review pat
 <!-- DIKWP-SOURCE-VISIBILITY-START -->
 ## Browse source / 浏览源码
 
-[Source index / 源码入口](SOURCE_INDEX.md) expands the retained archive distribution into browsable files, with archive hashes and per-project provenance. Runtime tests: **NOT_RUN**.
+[Source index / 源码入口](SOURCE_INDEX.md) expands the retained archive distribution into browsable files, with archive hashes and per-project provenance. Runtime tests: NOT_RUN.
 
 原始压缩包 保留；新增可浏览源码、哈希与来源记录。运行与测试尚未执行，详情见源码入口。
 <!-- DIKWP-SOURCE-VISIBILITY-END -->
@@ -45,3 +47,7 @@ Research navigation, not verified software dependencies. / 研究导航，不代
 - [DIKWP-DesireBalance-OS](https://github.com/YucongDuan/DIKWP-DesireBalance-OS)
 - [DIKWP-NietzscheLab-OS](https://github.com/YucongDuan/DIKWP-NietzscheLab-OS)
 - [DIKWP-OmegaIntent-Cosmogenesis-OS](https://github.com/YucongDuan/DIKWP-OmegaIntent-Cosmogenesis-OS)
+
+## Current interface presentation
+
+[Open the interface source](source-distribution/dikwp_ai_stockpicker_autowealth_sandbox_2026_v1_system_package-d97da1ed85/source/index.html) from the current repository download. See [interface and authorship notes](INTERFACE_NOTES.md) for English coverage, report generation and validation scope.
